@@ -4,6 +4,6 @@ scikit-learn
 streamlit
 streamlit-aggrid
 matplotlib
-pickle
+pickle5
 random
 time
